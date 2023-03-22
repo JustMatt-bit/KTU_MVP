@@ -1,0 +1,6 @@
+2023/02/16-20:09:55.375 4840 Creating DB C:/Users/Paulius/Desktop/MVP_KTUgame/KTU_GAME/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/02/16-20:09:55.381 4840 Reusing MANIFEST C:/Users/Paulius/Desktop/MVP_KTUgame/KTU_GAME/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/16-20:15:13.060 5084 Level-0 table #5: started
+2023/02/16-20:15:13.062 5084 Level-0 table #5: 7344 bytes OK
+2023/02/16-20:15:13.063 5084 Delete type=0 #3
+2023/02/16-20:15:13.064 5084 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
