@@ -59,9 +59,3 @@ Pasirinkus droną, jį galima valdyti naudojant šiuos būdus:
 1. Pasiekite NPC ir paspauskite **E**, kad gautumėte questą. Šiuo questu jums reikės surasti ir grąžinti knygą.
 2. Dviese kiti quest'ai reikalauja, kad įveiktumėte priešus. Taip pat turėsite pasiekti juos, paspausti **E** ir pradėti questą.
 3. Po quest'o įvykdymo, turėsite pakalbėti su "quest giver" NPC, kad užbaigtumėte quest'ą ir galėtumėte eiti prie kitos užduoties.
-
-## Naudotojo dokumentacija saugojama GitHub
-
-Visa ši naudotojo dokumentacija yra saugoma GitHub. Norėdami gauti išsamiau informaciją ir pateikti atsiliepimus, galite aplankyti žaidimo GitHub puslapį ir peržiūrėti README failą.
-
-Dėkojame, kad žaidžiate KTU Miestelio Žaidimą ir malonios pramogos!
