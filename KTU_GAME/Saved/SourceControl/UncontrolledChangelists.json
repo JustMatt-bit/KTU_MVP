@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Paulius/Desktop/MVP_KTUgame/KTU_GAME/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn_Auto3.uasset",
+				"C:/Users/Paulius/Desktop/MVP_KTUgame/KTU_GAME/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn_Auto1.uasset",
+				"C:/Users/Paulius/Desktop/MVP_KTUgame/KTU_GAME/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Paulius/Desktop/MVP_KTUgame/KTU_GAME/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/EE/YIRFRRTKJUW7OTLIC9IYS1.uasset",
+				"C:/Users/Paulius/Desktop/MVP_KTUgame/KTU_GAME/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn_Auto7.uasset",
+				"C:/Users/Paulius/Desktop/MVP_KTUgame/KTU_GAME/Content/Vehicles/Sedan/BP_ThirdPersonCharacter2.uasset",
 				"C:/KTU_MVP/MVP_KTUgame/KTU_GAME/Content/Characters/Low-Poly_Player/Casual_Skeleton.uasset",
 				"C:/KTU_MVP/MVP_KTUgame/KTU_GAME/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/KTU_MVP/MVP_KTUgame/KTU_GAME/Content/Weapons/Ruler.uasset",
