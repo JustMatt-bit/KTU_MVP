@@ -20,6 +20,7 @@ Po žaidimo paleidimo atsiras pagrindinis meniu, kuriame rasite šiuos mygtukus:
 - **A**: Judėti į kairę.
 - **S**: Judėti atgal.
 - **D**: Judėti į dešinę.
+- **SPACEBAR** Pašokti.
 
 ### Ginklų pasirinkimas
 Žaidime galite rinktis įvairius ginklus. Paspaudus šiuos klavišus:
@@ -46,6 +47,8 @@ Pasirinkus droną, jį galima valdyti naudojant šiuos būdus:
 - **A**: Vairuoti automobilį į kairę.
 - **S**: Vairuoti automobilį atgal.
 - **D**: Vairuoti automobilį į dešinę.
+- **SPACEBAR** Stabdyti automobilį rankiniu stabdžiu.
+- **M**: Pakeisti automobilio kameros rėžimą.
 
 ### Interakcija su NPC
 Žaidime yra NPC, su kuriais galite sąveikauti:
@@ -57,5 +60,5 @@ Pasirinkus droną, jį galima valdyti naudojant šiuos būdus:
 Žaidime yra trys quest'ai, kurie suteiks jums papildomų iššūkių ir užduočių. Štai kaip juos galite įvykdyti:
 
 1. Pasiekite NPC ir paspauskite **E**, kad gautumėte questą. Šiuo questu jums reikės surasti ir grąžinti knygą.
-2. Dviese kiti quest'ai reikalauja, kad įveiktumėte priešus. Taip pat turėsite pasiekti juos, paspausti **E** ir pradėti questą.
+2. Kiti du quest'ai reikalauja, kad įveiktumėte priešus. Taip pat turėsite pasiekti juos, paspausti **E** ir pradėti questą.
 3. Po quest'o įvykdymo, turėsite pakalbėti su "quest giver" NPC, kad užbaigtumėte quest'ą ir galėtumėte eiti prie kitos užduoties.
