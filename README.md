@@ -20,7 +20,7 @@ Po žaidimo paleidimo atsiras pagrindinis meniu, kuriame rasite šiuos mygtukus:
 - **A**: Judėti į kairę.
 - **S**: Judėti atgal.
 - **D**: Judėti į dešinę.
-- **SPACEBAR** Pašokti.
+- **SPACEBAR**: Pašokti.
 
 ### Ginklų pasirinkimas
 Žaidime galite rinktis įvairius ginklus. Paspaudus šiuos klavišus:
@@ -47,7 +47,7 @@ Pasirinkus droną, jį galima valdyti naudojant šiuos būdus:
 - **A**: Vairuoti automobilį į kairę.
 - **S**: Vairuoti automobilį atgal.
 - **D**: Vairuoti automobilį į dešinę.
-- **SPACEBAR** Stabdyti automobilį rankiniu stabdžiu.
+- **SPACEBAR**: Stabdyti automobilį rankiniu stabdžiu.
 - **M**: Pakeisti automobilio kameros rėžimą.
 
 ### Interakcija su NPC
